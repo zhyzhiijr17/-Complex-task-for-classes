@@ -1,0 +1,15 @@
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.sourcelink.json
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+D:\oop\oop_2024\-Complex-task-for-classes\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
